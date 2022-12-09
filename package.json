@@ -10,7 +10,7 @@
   "author": "Equalizers",
   "license": "NITK",
   "devDependencies": {
-    "budo": "^4.1.0",
+    "budo": "^11.8.4",
     "nodemon": "^1.18.4"
   },
   "dependencies": {
